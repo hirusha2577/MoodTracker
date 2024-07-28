@@ -1,0 +1,5 @@
+﻿text,label
+"""I am feeling great today!""",Happy
+"""This is the worst day ever.""",Sad
+"""I am so angry right now!""",Angry
+"""I feel so relaxed and calm.""",Relaxed
