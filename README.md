@@ -1,6 +1,6 @@
 Please go under edit and edit this file as needed for your project.  There is no seperate documentation needed.
 
-# Project Name - MoodTracker
+# MoodTracker
 
 #### 01. Brief Description of Project - 
 Mood Tracker app's goal is to give users a simple method for categorizing their moods based on text input. In order to assist users better understand their emotional state, the app makes use of a machine learning model to assess user input and anticipate the user's present mood. This software may be used as a personal mood tracker to promote self-awareness and mental health awareness.
